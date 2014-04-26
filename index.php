@@ -1,16 +1,15 @@
-<?php	
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Mensaje</title>
+</head>
 
-for ($i=0; $i < 10; $i++) { 
-	echo "tus nalguitas";
-}
+<body>
+	<form action="" method="POST">
+	<label>Escriba algo bonito:</label>
+		<input type="text">	<br>
+		<input type="submit">
+	</form>
 
-echo "qué pedo a ver si con codigo se puede";
-echo "qué más cambios le quieres hacer?";
-echo "a ver pon un boton o algo, ok?";
-
-echo "la neta no me acuerdo haha";
-
-echo 1+5;
-echo "tu culo" * 4;
-
-?>
+</body>
+</html>
